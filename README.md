@@ -7,8 +7,8 @@ project
 ## Methodology
 Instruction Induction을 수행하여 획득한 지시문과, 사용자와 LLM이 공용으로 사용하는 아이템 문서에 대한 정의를 활용하여 프롬프트 앤지니어링 수행
 
-	Model : Llama3(70B)
-	Dataset : KISTI 선정 Wiki 문서 데이터 셋, KIPRIS 특허 문서
+  - Model : Llama3(70B)
+  - Dataset : KISTI 선정 Wiki 문서 데이터 셋, KIPRIS 특허 문서
 
 ## Result
 기존 아이템 분류 프롬프트 방식보다 최대 26.79%p 성능 향상 확인
